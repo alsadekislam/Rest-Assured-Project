@@ -4,7 +4,6 @@ import base.Request_Specification;
 import endpoints.End_Points;
 import io.restassured.response.Response;
 import java.io.File;
-
 import static io.restassured.RestAssured.given;
 
 public class UsersApis {
